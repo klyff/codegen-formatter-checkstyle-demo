@@ -1,5 +1,6 @@
 # codegen-formatter-checkstyle-demo
 Project Demo to show code generation with swagger codegen and formating and checkin style of generated code 
+
 This project were initiated by scaffolding from Ritchie CLI <https://ritchiecli.io/>
 
 After cloging the repository, run the maven command at project root folder:
