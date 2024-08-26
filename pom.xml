@@ -16,7 +16,7 @@
 
     <properties>
         <java.version>14</java.version>
-        <springfox-version>2.9.2</springfox-version>
+        <springfox-version>2.10.0</springfox-version>
         <springframework.cloud>2.2.3.RELEASE</springframework.cloud>
         <default.package>br.com.zup.dtp.api</default.package>
     </properties>
